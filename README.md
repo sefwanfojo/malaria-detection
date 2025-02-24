@@ -1,2 +1,1 @@
-malaria detection using CNN
-
+Detecting Malaria cells using Convolutional Neural Network
