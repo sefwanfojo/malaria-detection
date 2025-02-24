@@ -1,1 +1,1 @@
-malar
+malaria det
