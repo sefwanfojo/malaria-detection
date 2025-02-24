@@ -1,1 +1,2 @@
-malaria det
+malaria detection using CNN
+
