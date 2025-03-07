@@ -1,1 +1,1 @@
-Detecting Malaria cells using Convolutional Neural Network
+Detecting Malaria cells using Convolutional Neural Network(CNN)
